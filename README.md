@@ -10,4 +10,4 @@ A simple and professional HTML resume template for developers, students, and pro
 - Suitable for hosting on GitHub Pages  
 
 ## Demo  
-Check out the live demo of this template [here](#).  
+Check out the live demo of this template [https://sanskar0627.github.io/HTML-Resume-Template/].  
